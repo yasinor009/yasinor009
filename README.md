@@ -17,15 +17,15 @@ I build practical web interfaces and help fix existing websites. Based in Iran, 
 
 - **Stockroom** — searchable inventory, stock movements and low-stock alerts.
 - **Learning desk** — example lessons, completion state and progress tracking.
-- **Distance lab** — adjustable distance calculation with synthetic measurements.
-- **Local API examples** — Python endpoint and a read-only PHP/PDO example.
+- **Object distance** — visual-only preview of a private project. Full contents and internal functionality are withheld for project security.
+- **PHP/PDO example** — an independent read-only inventory example.
 
-All demo records are fictional. These are early portfolio prototypes, not claimed client deployments. The distance demo performs no live detection and establishes no real-world accuracy.
+All demo records are fictional. These are early portfolio prototypes, not claimed client deployments. The object-distance preview displays the interface only. The original project source and important technical contents are not published.
 
 ## How I work
 
 Understand the issue → agree scope → implement → test → explain the handover.
 
-[Résumé](https://github.com/yasinor009/yas-god-portfolio/blob/main/RESUME.md) · [CryptoTask](https://www.cryptotask.org/en/freelancers/yas-god/60518)
+[Résumé](https://github.com/yasinor009/yas-god-portfolio/blob/main/RESUME.md) · [PDF résumé](https://yasinor009.github.io/yas-god-portfolio/YAS-GOD-Resume.pdf) · [CryptoTask](https://www.cryptotask.org/en/freelancers/yas-god/60518)
 
 For a potential project, share the issue, relevant requirements and expected result. Budget and delivery depend on the confirmed scope.
